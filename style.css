@@ -1,0 +1,13 @@
+body {background-color: white}
+
+h1 {font-size: 40px; color: #545454; font-family: Georgia, Arial, sans-serif, Arial, serif;}
+
+h2 {font-size: 32px; color:#545454; font-family: Helvetica, Arial, serif;}
+
+h3 {font-size: 26px; color: #545454; font-family: Helevtica, Arial, serif;}
+
+body {font-size: 18px; color: #545454; font-family: Helvetica, Arial, serif;}
+
+a {color: black;}
+
+.rezeptkarte {background-color: blanchedalmond; padding: 2%; margin: 2%; max-width: 50%;}
